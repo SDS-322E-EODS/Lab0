@@ -1,0 +1,7 @@
+---
+title: "Lab 0"
+output:
+  html_document: default
+---
+
+Success!
